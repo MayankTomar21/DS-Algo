@@ -15,6 +15,5 @@ int search(int arr[], int n, int x) {
         int n = sizeof(arr)/sizeof(arr[0]);
         int x = 33;
         cout << x << " is present at index: " << search(arr,n,x);
-        getchar();
         return 0;
     }
