@@ -1,2 +1,2 @@
 # DS-Algo
-Basic foundational programming of Data Structure
+programming - Data Structure & Algorithm #DSA
